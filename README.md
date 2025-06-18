@@ -6,19 +6,19 @@ Chatbot App builded, based on AI LLM
 
 
 # Page d'accueil
-![Voir l'image](deepseek_chatbot_app/pics/dashboard.png)
+![Voir l'image](pics/dashboard.png)
 
 # Page du LLM
-![Voir l'image](deepseek_chatbot_app/pics/chatbot_page.png)
+![Voir l'image](pics/chatbot_page.png)
 
 # Premier test avec PostMan
-![Voir l'image](deepseek_chatbot_app/pics/test_lien_deepseek_postman.png)
+![Voir l'image](pics/test_lien_deepseek_postman.png)
 
 # Formulaire de configuration
-![Voir l'image](deepseek_chatbot_app/pics/form_configuration.png)
+![Voir l'image](pics/form_configuration.png)
 
 # Tests effectués sur le LLM
-![Voir l'image](deepseek_chatbot_app/pics/test_fonctionnement.png)
+![Voir l'image](pics/test_fonctionnement.png)
 
 
 Objectif :
