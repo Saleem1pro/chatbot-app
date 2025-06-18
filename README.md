@@ -1,16 +1,30 @@
 # deepseek_chatbot_app
 
-Chatbot App builded, based on AI Model DeepSeek
+Chatbot App builded, based on AI LLM
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# Page d'accueil
+![Voir l'image](deepseek_chatbot_app/pics/dashboard.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Page du LLM
+![Voir l'image](deepseek_chatbot_app/pics/chatbot_page.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Premier test avec PostMan
+![Voir l'image](deepseek_chatbot_app/pics/test_lien_deepseek_postman.png)
+
+# Formulaire de configuration
+![Voir l'image](deepseek_chatbot_app/pics/form_configuration.png)
+
+# Tests effectués sur le LLM
+![Voir l'image](deepseek_chatbot_app/pics/test_fonctionnement.png)
+
+
+Objectif :
+
+Développer une application mobile cross platform avec Flutter qui permet de créer un Chatbot qui interagit avec les LLMs tels que OpenAI GPT ou LIAMMA
+L'application se compose de deux écrans :
+- Ecran d'authentification qui permet de saisir le username et le mot de passe
+- Ecran de chat avec un LLM
+  Voir la vidéo : https://youtu.be/DXikiU6EdZE
